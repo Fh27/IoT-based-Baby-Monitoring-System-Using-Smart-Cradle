@@ -3,6 +3,7 @@
 #include <LiquidCrystal.h>
 #include <stdio.h>
 
+
 #include <Wire.h>
 #include "dht.h"
 
